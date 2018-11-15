@@ -1,0 +1,44 @@
+body{
+	font-family:calibri;
+	margin-left:250px;
+	background:#eee;
+}
+
+footer{
+	
+	margin-top:200px;
+}
+pre{
+	
+	background:#f5f5b8;
+	border-left:1px solid gray;
+	padding:10px;
+	height:100px;
+	overflow-y:scroll;
+}
+
+nav{
+	
+	position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #61614d;
+    color: white;
+    margin: auto;
+    width: 180px;
+	height:100%;
+	border-right:2px solid white;
+	padding:10px;
+}
+
+nav a{
+	color:white;
+	text-decoration:none;
+}
+
+.result{
+	background: #f9e4bf;
+    padding: 15px;
+    border: 1px solid white;
+	
+}
